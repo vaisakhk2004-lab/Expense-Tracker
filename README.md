@@ -135,9 +135,10 @@ database="expense_manager"
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| GET | `/expenses/{date}` | Get expenses by date |
-| POST | `/expenses/{date}` | Add or update expenses |
+| GET | `/expenses/{expense_date}` | Get expenses by date |
+| POST | /expenses/{expense_date}| Add or update expenses |
 | POST | `/analytics_by_month` | Get monthly analytics |
+| POST | "/analytics_by_summary"| Provide analysis fora given period of time |
 
 ---
 
