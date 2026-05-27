@@ -1,0 +1,5 @@
+2026-05-23 13:59:15,790 - db_helper - INFO - inserted expenses in the provided date :2024-08-02
+2026-05-23 13:59:15,867 - db_helper - INFO - fetching data for the given date:2024-08-02
+2026-05-23 13:59:15,872 - db_helper - INFO - deleted all the  expenses in the given date:2024-08-02
+2026-05-23 13:59:15,880 - db_helper - INFO - fetching data for the given date:2024-08-02
+2026-05-23 13:59:15,885 - db_helper - INFO - provide summary of all expenses for the days between 2024-08-01 and 2024-08-05
